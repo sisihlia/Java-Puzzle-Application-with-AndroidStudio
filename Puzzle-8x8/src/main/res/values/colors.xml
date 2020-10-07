@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#816c7b</color>
+    <color name="colorPrimaryDark">#816c7b</color>
+    <color name="colorAccent">#816c7b</color>
+
+    <color name="tile_color">#cb0893</color>
+    <color name="board_color">#3f343b</color>
+
+</resources>
